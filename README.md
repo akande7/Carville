@@ -1,7 +1,7 @@
-### 1. Introduction
+# Carville
 This project aims to create a dynamic system using AWS services to manage newsletter subscriptions. It allows users to subscribe via a website, triggering AWS Lambda functions to add email addresses to an SNS topic for newsletter distribution.
 
-### 2. Architecture Overview
+## Architecture Overview
 The project architecture comprises the following AWS services and components:
 
 #### AWS Services Used:
@@ -20,7 +20,7 @@ The project architecture comprises the following AWS services and components:
 - **IAM Roles and Policies**: Managing permissions for different AWS services and resources.
 - **CloudWatch Logs**: Capturing logs from Lambda executions and API Gateway invocations for monitoring and troubleshooting.
 
-### 3. Step-by-Step Guide to Integrating AWS Services:
+## Step-by-Step Guide to Integrating AWS Services:
 #### Step 1: Design Your Website
 - **Design or Prepare Your Website**: Create your website's content or choose an existing template.
 
