@@ -4,6 +4,8 @@ This project aims to create a dynamic system using AWS services to manage newsle
 ## Architecture Overview
 The project architecture comprises the following AWS services and components:
 
+![Alt text](https://github.com/akande7/Carville/blob/master/carville.jpg?raw=true)
+
 #### AWS Services Used:
 - **Amazon S3 (Simple Storage Service)**: Hosting the static website files.
 - **AWS API Gateway**: Handling HTTP requests and acting as the entry point for API interactions.
@@ -11,6 +13,7 @@ The project architecture comprises the following AWS services and components:
 - **Amazon SNS (Simple Notification Service)**: Storing email addresses for newsletter subscriptions and sending notifications.
 - **IAM (Identity and Access Management)**: Managing user access and permissions within AWS.
 - **Amazon CloudWatch**: Monitoring and logging service used for tracking API calls and Lambda function execution.
+  
 
 #### Components Overview:
 - **Static Website**: Hosted on Amazon S3, providing the user interface for subscription interactions.
