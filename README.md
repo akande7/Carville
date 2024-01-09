@@ -4,7 +4,7 @@ This project aims to create a dynamic system using AWS services to manage newsle
 ## Architecture Overview
 The project architecture comprises the following AWS services and components:
 
-![Alt text](https://github.com/akande7/Carville/blob/master/carville.jpg?raw=true)
+![Architecture Diagram](https://github.com/akande7/Carville/blob/master/carville.jpg?raw=true)
 
 #### AWS Services Used:
 - **Amazon S3 (Simple Storage Service)**: Hosting the static website files.
